@@ -1,0 +1,8 @@
+gradio==4.33.0
+langchain==0.2.2
+langchain_community==0.2.3
+langchain_core==0.2.4
+langchain_huggingface==0.0.3
+langchain_openai==0.1.8
+pypandoc==1.13
+unstructured==0.14.3
